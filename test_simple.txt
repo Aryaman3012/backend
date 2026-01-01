@@ -1,0 +1,3 @@
+﻿John works at Microsoft as a software engineer. 
+Mary is his colleague and works at Google.
+They collaborate on AI projects together.
